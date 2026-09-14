@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1050" height="150" alt="Banner README - PCD_2026 (1)" src="https://github.com/user-attachments/assets/ff0ac416-5998-4749-a5f6-d6163cae0515" />
+ <img width="1050" height="150" alt="Banner README - PCD_2026 (1)" src="https://github.com/user-attachments/assets/7257259a-6876-4d45-a486-a5b6edc35f84" />
 </p>
 
 <p align="center">
