@@ -11,12 +11,13 @@ Projeto final da disciplina de Aprendizado de Máquina- 2º Semestre de 2026 | I
 Este trabalho propôs realizar uma classificação binária da citotoxicidade (`Toxicity`) de experimentos com nanopartículas de óxidos metálicos, a partir de propriedades físico-químicas e das condições do ensaio, utilizando estratégias de *Machine Learning*. Comparamos um baseline (Dummy e Regressão Logística) com Random Forest, XGBoost e SVM, cada um com 100 tentativas de hiperparâmetros no Optuna, usando divisão treino/teste e validação cruzada agrupadas **por material** para evitar vazamento de dados.
 
 **Objetivo:** Comparar um baseline e três algoritmos (Random Forest, XGBoost e SVM), cada um com 100 conjuntos de hiperparâmetros testados pelo Optuna, em um problema de **classificação binária** (`Toxicity`).
+
 **Dados:** Conjunto de dados *HaHa-Manual*, com dados de toxicidade extraídos manualmente da literatura (Ha e Ha, 2025), sendo estes dados experimentais reais, não sintéticos.
 
 #### **Estrutura**
 - `Entrega_2_Criatura_Tiamat.ipynb`: notebook do projeto com relatório e código completos (EDA, modelagem, comparação, explicação).
 - `HaHa-Manual.csv`: dataset (ver "Como baixar os arquivos"). Deve ficar na mesma pasta do notebook.
-`requirements.txt`: requisitos para execução do notebook.
+- `requirements.txt`: requisitos para execução do notebook.
 
 #### **Como baixar os arquivos**
 1. **Notebook:** baixe `Entrega_2_Criatura_Tiamat.ipynb` deste repositório;
