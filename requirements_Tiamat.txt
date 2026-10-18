@@ -1,0 +1,17 @@
+# Requisitos para reprodução do projeto: Tiamat - toxicidade de nanopartículas de óxidos metálicos
+
+# Versão do Python recomendada:
+# Python >= 3.10
+
+# Bibliotecas externas (instale com: pip install -r requirements.txt)
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+seaborn>=0.13
+scikit-learn>=1.3
+xgboost>=2.0
+optuna>=3.0
+jupyter
+
+# Observação: os módulos 'os' e 'warnings' fazem parte da biblioteca padrão
+# do Python e não precisam ser instalados separadamente.
