@@ -17,7 +17,7 @@ Este trabalho propôs realizar uma classificação binária da citotoxicidade (`
 #### **Estrutura**
 - `Entrega_2_Criatura_Tiamat.ipynb`: notebook do projeto com relatório e código completos (EDA, modelagem, comparação, explicação).
 - `HaHa-Manual.csv`: dataset (ver "Como baixar os arquivos"). Deve ficar na mesma pasta do notebook.
-- `requirements.txt`: requisitos para execução do notebook.
+- `requirements_Tiamat.txt`: requisitos para execução do notebook.
 
 #### **Como baixar os arquivos**
 1. **Notebook:** baixe `Entrega_2_Criatura_Tiamat.ipynb` deste repositório;
