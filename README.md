@@ -36,6 +36,13 @@ Este trabalho propôs realizar uma classificação binária da citotoxicidade (`
 - **os e warnings** (biblioteca padrão do Python): caminhos de arquivo e controle de avisos.
 
 ---
+## Casa Sentinela Real do Reino de Lumi
+
+<p align="center">
+ <img width="1080" height="1350" alt="Brasão de Lumi_20261025_141520_0000" src="https://github.com/user-attachments/assets/d1c2b3f6-0b26-4382-a371-2029f0634d14" />
+</p>
+
+---
 
 ## Professor
 ### Daniel Roberto Cassar
@@ -58,4 +65,4 @@ Técnica em Biotecnologia e estudante de Ciência e Tecnologia na Ilum Escola de
   
 ---
 
-*Este projeto foi desenvolvido com o auxílio de IA generativa (Claude) para esclarecimento de dúvidas, ajustes no projeto e organização de fontes.*
+*Este projeto foi desenvolvido com o auxílio de IA generativa (Claude) para esclarecimento de dúvidas, ajustes no projeto e organização de fontes; e Google Gemini (Meta) para gerar o banner inicial deste README*
