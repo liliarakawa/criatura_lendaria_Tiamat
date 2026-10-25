@@ -36,10 +36,12 @@ Este trabalho propôs realizar uma classificação binária da citotoxicidade (`
 - **os e warnings** (biblioteca padrão do Python): caminhos de arquivo e controle de avisos.
 
 ---
-## Casa Sentinela Real do Reino de Lumi
+## **Casa Sentinela Real do Reino de Lumi**
+
+Brasão elaborado de forma autoral por *Angelica Aracava Lopes*
 
 <p align="center">
- <img width="1080" height="1350" alt="Brasão de Lumi_20261025_141520_0000" src="https://github.com/user-attachments/assets/d1c2b3f6-0b26-4382-a371-2029f0634d14" />
+ <img width="1000" height="1270" alt="Brasão de Lumi_20261025_141520_0000" src="https://github.com/user-attachments/assets/d1c2b3f6-0b26-4382-a371-2029f0634d14" />
 </p>
 
 ---
