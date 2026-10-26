@@ -64,6 +64,9 @@ Técnica em Biotecnologia e estudante de Ciência e Tecnologia na Ilum Escola de
 - Akiba, T. et al. Optuna: A Next-generation Hyperparameter Optimization Framework. *KDD*, 2019.
 - Chen, T.; Guestrin, C. XGBoost: A Scalable Tree Boosting System. *KDD*, 2016.
 - Pedregosa, F. et al. Scikit-learn: Machine Learning in Python. *JMLR* 12, 2825–2830, 2011.
+- FACELI, K. et al. Inteligência artificial: uma abordagem de aprendizado de máquina. Rio de Janeiro: LTC, 2011.
+- WASKOM, M. seaborn: statistical data visualization. *Journal of Open Source Software*, v. 6, n. 60, p. 3021,
+  2021. Documentação: https://seaborn.pydata.org/
   
 ---
 
